@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apredicts -- Amir Bagherpour
+- 👋 Hi, I’m @Apredicts -- Amir Bagherpour -- Contact me for more repo access request. 
 - 👀 I apply advanced in data science, computational social science, visualization, econometrics, advanced methods. 
 - 🌱 I’m currently applying agentic AI, advanced simulation, dynamic dashboarding for enterprise and mission AI for enhanced decision intelligence. 
 - 💞️ I’m looking to collaborate on all of the above
